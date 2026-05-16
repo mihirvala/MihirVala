@@ -222,9 +222,7 @@ Financial market compliance automation for NSE and BSE regulatory submissions.
 
 <div align="center">
 
-![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirvala&show_icons=true&theme=tokyonight&hide_border=true&title_color=4D8EFF&icon_color=B392F0&text_color=C9D1D9&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirvala&layout=compact&theme=tokyonight&hide_border=true&title_color=4D8EFF&text_color=C9D1D9&bg_color=0D1117)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihirvala&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mihirvala&theme=tokyonight&hide_border=true&fire=FF6B5B&ring=4D8EFF&currStreakLabel=B392F0)
 
@@ -267,7 +265,5 @@ Financial market compliance automation for NSE and BSE regulatory submissions.
 ```
 
 *⚔️ The build is green. The pipeline is clean. The arc continues... ✨*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mihirvala&color=4D8EFF&style=flat-square&label=Profile+Views)
 
 </div>
